@@ -1,4 +1,5 @@
 //Calculate the return
+
 function Return(taken,price){
     let returnSum=taken-price;
     let give={}
