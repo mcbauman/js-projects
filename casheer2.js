@@ -6,12 +6,11 @@ function Return(taken,price){
     console.log(returnSum);
     for(i=0;i<coins.length;i++){
         if(returnSum>coins[i]){
-            give["coins[i]"]=Math.floor(returnSum/coins[i])
+            give[coins[i]]=Math.floor(returnSum/coins[i])
             returnSum=returnSum%coins[i]
         } 
-        console.log(give);
     }
-    // console.log(give);
+    console.log(give);
 }
 
-Return(100,13.49)
+Return(100,3.11)
