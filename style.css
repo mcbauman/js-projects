@@ -1,0 +1,32 @@
+
+
+main{
+    margin:20px auto;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 90%;
+    background-color: burlywood;
+}
+section{
+    display: flex;
+}
+.secondRow{
+    position: relative;
+    left: 4%;
+}
+.thirdRow{
+    position: relative;
+    left: 7%;
+}
+div{
+    font-weight: bold;
+    width: 8%;
+    margin:0.3%;
+    height: 8vh;
+    box-shadow: 3px 3px 5px black inset;
+    border-radius: 10%;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
