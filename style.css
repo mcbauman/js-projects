@@ -7,6 +7,12 @@ main{
     width: 90%;
     background-color: burlywood;
 }
+#typed{
+    width: 90%;
+    height: 5vh;
+    background-color: darkgray;
+    color: white;
+}
 section{
     display: flex;
 }
@@ -29,4 +35,7 @@ div{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+#f,#j{
+    color:brown
 }
