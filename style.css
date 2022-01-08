@@ -5,7 +5,7 @@ main{
     font-size: larger;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 90%;
-    background-color: burlywood;
+    background-color: rgb(169, 169, 169);
 }
 #typed{
     width: 90%;
@@ -31,7 +31,7 @@ div{
     height: 8vh;
     box-shadow: 3px 3px 5px black inset;
     border-radius: 10%;
-    background-color: bisque;
+    background-color: rgb(218, 218, 218);
     display: flex;
     justify-content: center;
     align-items: center;
