@@ -1,5 +1,5 @@
 let currentKey;
-const allKeys=["q","w","e","r","t","z","u","i","o","p","ue","a","s","d","f","g","h","j","k","l","oe","ae","y","x","c","v","b","n","m",",","."," "];
+const allKeys=["q","w","e","r","t","z","u","i","o","p","ü","a","s","d","f","g","h","j","k","l","ö","ä","y","x","c","v","b","n","m",",","."," "];
 let counter=0
 let sentences = "was du liebst, lass frei. kommt es zurück, gehört es dir - für immer!";
 let nextKey=sentences[0];
