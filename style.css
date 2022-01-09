@@ -1,4 +1,6 @@
-
+body{
+    box-sizing: border-box;
+}
 
 main{
     margin:20px auto;
@@ -24,6 +26,10 @@ section{
     position: relative;
     left: 7%;
 }
+.fourthRow{
+    position: relative;
+    left:25%;
+}
 div{
     font-weight: bold;
     width: 8%;
@@ -35,6 +41,9 @@ div{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.tab{
+    width: 40%;
 }
 #f,#j{
     color:brown
